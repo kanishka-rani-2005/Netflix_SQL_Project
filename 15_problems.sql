@@ -1,5 +1,4 @@
 -- Netflix Data Analysis using SQL
--- Solutions of 15 business problems
 -- 1. Count the number of Movies vs TV Shows
 -- 2. Find the most common rating for movies and TV shows
 -- 3. List all movies released in a specific year (e.g., 2020)
